@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AEA",
+    "ESE",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "S": {
+      "item": "overchargehearts:crystallised_heart_shard"
+    }
+  },
+  "result": {
+    "item": "overchargehearts:overcharged_heart",
+    "count": 1
+  }
+}
